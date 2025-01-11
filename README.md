@@ -28,5 +28,20 @@ Watch the demo video [here](demo.mp4).
 1. Clone the repository:
    ```bash
    git clone https://github.com/Pardhasaradhi9/2nd-Opinion.git
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the Streamlit app:
+   ```bash
+   streamlit run strm_lit_app.py
+
+## Future Enhancements
+- Support for additional e-commerce platforms (e.g., eBay, Flipkart).
+- Integration with YouTube reviews.
+- User feedback mechanism to improve Peggy's responses.   
+
+## Things worth mentioning
+- Individual files are available for review scraping, product scraping, text summarisation, and text chatbot development.
 
 ## Like the work then give a star when used. Thank You 🙏🏾 ✌🏽
