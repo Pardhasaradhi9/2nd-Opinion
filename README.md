@@ -57,4 +57,4 @@ Watch the demo video [here](demo.mp4).
 ## Things worth mentioning
 - Individual files are available for review scraping, product scraping, text summarisation, and text chatbot development.
 
-## Like the work then give a star when used. Thank You 🙏🏾 ✌🏽
+## If you like the idea or work, please give a star. I’d be delighted to collaborate with others. Thank you! 🙏🏾 ✌🏽
