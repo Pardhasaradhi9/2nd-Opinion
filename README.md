@@ -21,6 +21,19 @@
   - **Advanced RAG (Retrieval-Augmented Generation)**: Enhances Peggy's ability to provide well-reasoned and context-aware responses.
 - **Streamlit**: For building the intuitive and user-friendly interface.
 
+# Pipeline Architecture
+### Traditional RAG Pipeline
+![Traditional RAG Pipeline](Rag_pipeline.png)
+The traditional RAG pipeline follows a sequential process where documents are embedded and retrieved based on pure vector similarity. While effective, this approach can sometimes miss relevant information that doesn't match exactly with the semantic similarity search.
+
+### Enhanced Hybrid Search Pipeline
+![Hybrid Search Pipeline](hybrid_search_pipeline.jpeg)
+Hybrid search pipeline combines the best of both worlds:
+- Vector-based similarity search for semantic understanding
+- BM25 keyword matching for precise term retrieval
+- Re-ranking mechanism to optimize result relevance
+This dual approach ensures Peggy provides more accurate and comprehensive responses to your queries.
+
 ## Demo
 Watch the demo video [here](demo.mp4).
 
