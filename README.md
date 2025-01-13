@@ -2,6 +2,16 @@
 
 2nd Opinion is an AI-powered 🤖 application designed to help users make informed purchasing decisions 🛒 by analyzing product reviews and providing personalized recommendations. Whether you're buying a 💻, 📺, 📱, or any other product, 2nd Opinion has your back!
 
+## Motivation
+Have you ever found yourself spending hours reading through countless reviews, watching YouTube videos, or asking friends for advice before making a purchase? I know I have! This struggle inspired me to build **2nd Opinion**.
+
+The idea came from my own experience of trying to choose between multiple products on Amazon. With so many options and reviews, it was overwhelming to make a decision. I realized that many people face the same challenge, and I wanted to create a solution that saves time and effort while providing reliable insights.
+
+2nd Opinion is designed to:
+- **Simplify Decision-Making**: By aggregating and summarizing reviews, it gives users a clear overview of each product.
+- **Provide Personalized Assistance**: With **Peggy**, the AI assistant, users can ask questions, compare products, and get recommendations tailored to their needs.
+- **Save Time and Effort**: No more scrolling through endless reviews or watching lengthy videos—2nd Opinion does the hard work for you.
+
 ## Features
 - **Review Aggregation**: Scrapes and aggregates reviews from Amazon for multiple products using a custom-built **web scraper**.
 - **Summarization**: Provides a concise summary of each product using a **deep learning-based summarizer** that processes customer reviews.
